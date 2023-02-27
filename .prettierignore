@@ -1,0 +1,14 @@
+.git
+.husky
+.fdk
+.vscode
+node_modules
+package-lock.json
+theme/config
+fdk.config.js
+babel.config.js
+package.json
+.eslintrc.js
+theme/index.js
+theme/sections/index.js
+README.md
